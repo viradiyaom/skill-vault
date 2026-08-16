@@ -8,11 +8,11 @@ effort: medium
 
 # Native Parallel Agents
 
-> Orchestration through AG Kit's built-in Agent Tool
+> Orchestration through the built-in Agent Tool
 
 ## Overview
 
-This skill enables coordinating multiple specialized agents through AG Kit's native agent system. Unlike external scripts, this approach keeps all orchestration within AG Kit's control.
+This skill enables coordinating multiple specialized agents through the native agent system. Unlike external scripts, this approach keeps all orchestration within the agent's control.
 
 ## When to Use Orchestration
 
@@ -115,7 +115,7 @@ Agents: security-auditor → penetration-tester → synthesis
 
 ---
 
-## AG Kit Built-in Agents
+## Built-in Agents
 
 These work alongside custom agents:
 
